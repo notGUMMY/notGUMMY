@@ -13,7 +13,7 @@
 <p align="center">
   <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=notGUMMY&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=notGUMMY&theme=dracula&hide_border=false" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=notGUMMY&theme=dracula&hide_border=false" height="70%" />
 </p>
 </p>
 <p align="center">
