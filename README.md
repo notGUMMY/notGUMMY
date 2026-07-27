@@ -12,8 +12,8 @@
 # 📊 GitHub Stats:
 <p align="center">
   <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=notGUMMY&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" height="55%" />
-  <img src="https://streak-stats.demolab.com/?user=notGUMMY&theme=dracula&hide_border=false" height="55%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=notGUMMY&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" height="40%" />
+  <img src="https://streak-stats.demolab.com/?user=notGUMMY&theme=dracula&hide_border=false" height="40%" />
 </p>
 </p>
 <p align="center">
