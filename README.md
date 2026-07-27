@@ -14,4 +14,9 @@
 ![](https://streak-stats.demolab.com/?user=notGUMMY&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=notGUMMY&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Contribution Graph (Stable Server, Fully Customized Aesthetic) -->
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notGUMMY&theme=tokyonight&bg_color=0d1117&border_radius=5&color_outline=%23ff5d8f&color_title=%23ff5d8f&color_calendar=%239b5de5&custom_title=Dishi's%20Contribution%20Graph" />
+</div>
+
