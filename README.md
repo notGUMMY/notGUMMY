@@ -13,8 +13,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=notGUMMY&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=notGUMMY&theme=dracula&hide_border=false)</br>
 <p align="center">
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=notGUMMY&theme=dracula&layout=compact&hide_border=true)
-
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=notGUMMY&theme=dracula&layout=compact&hide_border=true" width="400" />
 </p>
-
