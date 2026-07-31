@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.shion.dev/api?username=notGUMMY&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" width="60%"/>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=notGUMMY&theme=dracula&show_icons=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notGUMMY&theme=dracula&hide_border=false" width="60%"/>
   <br/>
   <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=notGUMMY&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="45%" />
