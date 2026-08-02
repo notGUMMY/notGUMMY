@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Rishi 👋<br><br>I'm a Cyber Security student And currently exploring Web & Software Development
+# Hi there, I'm Rishi 👋<br><br>I'm a Cyber Security student And currently exploring Web & Software Development
 
 <!-- Snake Game Repo View -->
 
