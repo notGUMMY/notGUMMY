@@ -1,54 +1,48 @@
 <div align="center">
 
-  <!-- Main Banner Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00e676&height=220&section=header&text=RISHI%20//%20CYBER%20SECURITY&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+  <!-- Dynamic Waving Cyber Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff66,100:0d1117&height=220&section=header&text=RISHI%20%E2%80%A2%20CYBER%20SECURITY&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Header" />
 
-  <br />
-
-  <!-- Animated Typing SVG -->
+  <!-- Dynamic Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&width=500&lines=Cyber+Security+Student+%F0%9F%9B%A1%EF%B8%8F;Web+%26+Software+Developer+%F0%9F%92%BB;Ethical+Hacking+Enthusiast+%F0%9F%94%90;Low-Level+Programming+Lover+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=%3F+Cyber+Security+%26+Offensive+Security;%3F+Full-Stack+%26+Software+Engineer;%3F+Kernel%2C+Memory+%26+Low-Level+Exploitation;%3F+Automating+Recon+%26+Security+Tooling" alt="Typing Effect" />
   </a>
 
   <br /><br />
 
-  <!-- Quick Badges Header -->
+  <!-- Live Badges -->
   <a href="https://github.com/notGUMMY">
-    <img src="https://img.shields.io/github/followers/notGUMMY?label=Followers&logo=github&style=for-the-badge&color=00FF66&labelColor=101010" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/notGUMMY?label=Followers&logo=github&style=for-the-badge&color=00FF66&labelColor=0d1117" alt="Followers" />
   </a>
   <a href="https://github.com/notGUMMY">
-    <img src="https://img.shields.io/github/stars/notGUMMY?label=Stars&logo=github&style=for-the-badge&color=00FF66&labelColor=101010" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/notGUMMY?label=Stars&logo=github&style=for-the-badge&color=00FF66&labelColor=0d1117" alt="Stars" />
   </a>
   <a href="https://github.com/notGUMMY?tab=repositories">
-    <img src="https://img.shields.io/github/repositories/qty/notGUMMY?label=Repos&logo=github&style=for-the-badge&color=00FF66&labelColor=101010" alt="Repos" />
+    <img src="https://img.shields.io/github/repositories/qty/notGUMMY?label=Repos&logo=github&style=for-the-badge&color=00FF66&labelColor=0d1117" alt="Repos" />
   </a>
 
 </div>
 
 <br />
 
-<!-- Snake Eating Commits Game -->
+<!-- Snake Commit Animation -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
 
-## 📟 System Terminal (`whoami`)
+## 👨‍💻 `whoami` — Terminal Context
 
-```text
-┌──(rishi㉿security-node)-[~]
-└─$ cat profile.json
+```bash
+┌──(rishi㉿sec-terminal)-[~]
+└─$ cat << 'EOF' > profile.json
 {
-  "user": "Rishi",
-  "status": "Cyber Security Student & Developer",
+  "operator": "Rishi",
+  "domain": "Cyber Security & Systems Engineering",
+  "current_focus": "Offensive Security, Web Exploitation, Secure Architecture",
+  "status": "Student & Open Source Developer",
   "location": "India 🇮🇳",
-  "archetype": "Offensive Security & Secure Systems Specialist",
-  "current_focus": [
-    "Web Application Security & OWASP Top 10",
-    "Penetration Testing & Vulnerability Assessment",
-    "Low-Level Memory Analysis & C/C++ Internals",
-    "Scalable Web Architecture"
-  ],
-  "security_philosophy": "Security is not a feature, it's a mindset."
+  "core_creed": "Code securely first, audit relentlessly second."
 }
+EOF
