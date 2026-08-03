@@ -1,48 +1,20 @@
-<div align="center">
+# 💫 About Me:
+# Hi there, I'm Rishi 👋<br><br>I'm a Cyber Security student And currently exploring Web & Software Development
 
-  <!-- Dynamic Waving Cyber Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff66,100:0d1117&height=220&section=header&text=RISHI%20%E2%80%A2%20CYBER%20SECURITY&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Header" />
+<!-- Snake Game Repo View -->
 
-  <!-- Dynamic Animated Typing Subtitle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=%3F+Cyber+Security+%26+Offensive+Security;%3F+Full-Stack+%26+Software+Engineer;%3F+Kernel%2C+Memory+%26+Low-Level+Exploitation;%3F+Automating+Recon+%26+Security+Tooling" alt="Typing Effect" />
-  </a>
+<div align="center"> 
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
+# 💻 Tech Stack:
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=notGUMMY&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br /><br />
-
-  <!-- Live Badges -->
-  <a href="https://github.com/notGUMMY">
-    <img src="https://img.shields.io/github/followers/notGUMMY?label=Followers&logo=github&style=for-the-badge&color=00FF66&labelColor=0d1117" alt="Followers" />
-  </a>
-  <a href="https://github.com/notGUMMY">
-    <img src="https://img.shields.io/github/stars/notGUMMY?label=Stars&logo=github&style=for-the-badge&color=00FF66&labelColor=0d1117" alt="Stars" />
-  </a>
-  <a href="https://github.com/notGUMMY?tab=repositories">
-    <img src="https://img.shields.io/github/repositories/qty/notGUMMY?label=Repos&logo=github&style=for-the-badge&color=00FF66&labelColor=0d1117" alt="Repos" />
-  </a>
-
-</div>
-
-<br />
-
-<!-- Snake Commit Animation -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
-</div>
-
----
-
-## 👨‍💻 `whoami` — Terminal Context
-
-```bash
-┌──(rishi㉿sec-terminal)-[~]
-└─$ cat << 'EOF' > profile.json
-{
-  "operator": "Rishi",
-  "domain": "Cyber Security & Systems Engineering",
-  "current_focus": "Offensive Security, Web Exploitation, Secure Architecture",
-  "status": "Student & Open Source Developer",
-  "location": "India 🇮🇳",
-  "core_creed": "Code securely first, audit relentlessly second."
-}
-EOF
+  <img src="https://streak-stats.demolab.com/?user=notGUMMY&theme=transparent&hide_border=false" alt="GitHub Streak" />
+  <br /><br />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=notGUMMY&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
