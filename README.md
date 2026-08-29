@@ -13,8 +13,6 @@
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=notGUMMY&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="55%" />
   <br /><br />
-  <img src="https://streak-stats.demolab.com/?user=notGUMMY&theme=transparent&hide_border=false" alt="GitHub Contribution Streak" width="55%"/>
-  <br /><br />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=notGUMMY&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
